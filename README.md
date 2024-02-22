@@ -1,2 +1,2 @@
 # Desarrollo Cattleya
-![image](https://github.com/briancgx/Cattleya/assets/118696146/5e396576-1fb7-40dc-8927-24e784a2b391)
+![image](https://github.com/briancgx/Cattleya/assets/118696146/6830efd8-6010-42ea-abc1-1cea882cef2b)
