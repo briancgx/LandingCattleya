@@ -3,4 +3,4 @@
 
 Proyecto realizado para 'Cattleya', una corporación encargada de organizar eventos de Free Fire.
 
-[Link a la web](https://cattleyacfr.github.io)
+[Visitar Cattleya](https://cattleyacfr.github.io)
